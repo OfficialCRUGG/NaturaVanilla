@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natura:barley"
+    }
+  ],
+  "result": {
+    "item": "natura:barley_seeds",
+    "count": 1
+  }
+}

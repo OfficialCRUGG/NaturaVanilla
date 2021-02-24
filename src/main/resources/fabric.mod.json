@@ -1,29 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "natura",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "NaturaVanilla",
+  "description": "NaturaVanilla tries to add small features, blocks, crops etc. which fit into the Vanilla Game!",
   "authors": [
-    "Me!"
+    "CRUGG"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://crugg.de/",
+    "sources": ""
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "",
+  "icon": "assets/natura/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "de.crugg.naturavanilla.NaturaVanilla"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
@@ -32,6 +31,5 @@
     "minecraft": "1.16.x"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }

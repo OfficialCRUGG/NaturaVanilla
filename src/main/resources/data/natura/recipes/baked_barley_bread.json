@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "natura:barley_bread"
+  },
+  "result": "natura:baked_barley_bread",
+  "experience": 0.1,
+  "cookingtime": 500
+}
