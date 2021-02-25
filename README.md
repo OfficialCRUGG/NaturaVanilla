@@ -1,9 +1,17 @@
-# Fabric Example Mod
+# NaturaVanilla - 0.1.0
+> This mod is still under Development. While it *should* work, it has not been tested a lot and doesn't feature lots of content at the moment. Besides that, your saves might break between versions.
 
-## Setup
+![Test](.github/assets/0.1.0.png)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+NaturaVanilla is a Mod that attempts to add various features which would fit into the vanilla game.
 
-## License
+## What does the mod currently add?
+- New Crop Type: Barley
+    - Barley Bread
+- Crafting Bread now gives you the raw form, put it in a Furnace to get more saturation from it
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## What Languages is this Mod currently available in?
+- American English (100%)
+
+## Dependencies
+- Fabric API [[Modrinth]](https://modrinth.com/mod/fabric-api) [[CurseForge]](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
