@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "natura:barley"
+    }
+  },
+  "result": {
+    "item": "natura:barley_bread",
+    "count": 1
+  }
+}
